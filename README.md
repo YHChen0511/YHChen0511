@@ -1,4 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YHChen0511&theme=nord)](https://github.com/YHChen0511/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YHChen0511&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YHChen0511&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Hi there 👋
 
 <!--
