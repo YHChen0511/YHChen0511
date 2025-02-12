@@ -6,9 +6,6 @@ on:
     - cron: '30 18 * * *'
   workflow_dispatch:
 
-  push:
-    branches:
-    - main
 jobs:
   update-readme:
     name: Update Readme with Metrics
