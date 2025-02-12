@@ -53,15 +53,13 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yxn4065&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 122.8 kB Used in GitHub's Storage 
- > 
-> 🏆 38 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -129,5 +127,5 @@ HTML                     2 repos             █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/YHChen0511/YHChen0511/main/assets/bar_graph.png)
 
 
- Last Updated on 12/02/2025 14:59:57 UTC
+ Last Updated on 12/02/2025 15:05:01 UTC
 <!--END_SECTION:waka-->

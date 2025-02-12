@@ -9,10 +9,6 @@ on:
   workflow_dispatch:
  
   # 每当push到master分支时自动执行
-  push:
-    branches:
-    - main
- 
  
  
 jobs:
