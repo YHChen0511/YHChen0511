@@ -59,8 +59,6 @@ Here are some ideas to get you started:
 
 > 📦 122.8 kB Used in GitHub's Storage 
  > 
-> 🏆 37 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 5 Public Repositories 
@@ -127,5 +125,5 @@ HTML                     2 repos             █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/YHChen0511/YHChen0511/main/assets/bar_graph.png)
 
 
- Last Updated on 12/02/2025 15:00:50 UTC
+ Last Updated on 12/02/2025 15:01:40 UTC
 <!--END_SECTION:waka-->
