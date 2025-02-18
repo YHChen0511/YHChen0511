@@ -53,19 +53,21 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=YHChen0511&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2058%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-123-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-124-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 122.8 kB Used in GitHub's Storage 
+> 📦 122.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 52 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 5 Public Repositories 
  > 
-> 🔑 7 Private Repositories 
+> 🔑 5 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -79,12 +81,12 @@ Here are some ideas to get you started:
 
 ```text
 Monday                   149 commits         ████████████████░░░░░░░░░   62.61 % 
-Tuesday                  14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Wednesday                27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+Tuesday                  17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Wednesday                25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
 Thursday                 13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
 Friday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 Saturday                 23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-Sunday                   11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+Sunday                   10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
 ```
 
 
@@ -120,5 +122,5 @@ HTML                     2 repos             ████░░░░░░░�
 
 
 
- Last Updated on 17/02/2025 18:40:11 UTC
+ Last Updated on 18/02/2025 18:41:48 UTC
 <!--END_SECTION:waka-->
