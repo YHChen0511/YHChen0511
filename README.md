@@ -53,13 +53,15 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=YHChen0511&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2010%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 123.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -94,18 +96,18 @@ Sunday                   12 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   16 hrs 41 mins      ████████████████████░░░░░   79.29 % 
-C                        2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-C++                      1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-CMake                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Python                   17 hrs 6 mins       ███████████████████████░░   90.20 % 
+C++                      1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 2 mins       █████████████████████████   100.00 % 
+VS Code                  18 hrs 58 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    19 hrs 49 mins      ████████████████████████░   94.23 % 
-WSL                      1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+Linux                    17 hrs 45 mins      ███████████████████████░░   93.59 % 
+WSL                      1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
 ```
 
 **I Mostly Code in Python** 
@@ -120,5 +122,5 @@ C                        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 03/03/2025 18:40:52 UTC
+ Last Updated on 04/03/2025 18:43:29 UTC
 <!--END_SECTION:waka-->
