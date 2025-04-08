@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,c,git,docker,sqlite,latex,java,go" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,c,pytorch,git,docker,latex,mysql,linux,vscode" />
   </a>
 </p>
 
