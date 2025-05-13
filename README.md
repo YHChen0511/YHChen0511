@@ -53,15 +53,13 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=YHChen0511&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-220%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-224%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 34.3 kB Used in GitHub's Storage 
- > 
-> 🏆 116 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -96,17 +94,17 @@ Sunday                   11 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   22 hrs 21 mins      ███████████████░░░░░░░░░░   58.08 % 
-JSON                     9 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
-Java                     3 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-Text                     39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-C++                      33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Python                   20 hrs 4 mins       █████████████░░░░░░░░░░░░   52.12 % 
+JSON                     11 hrs 9 mins       ███████░░░░░░░░░░░░░░░░░░   28.94 % 
+Java                     4 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Text                     39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+C++                      33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 🔥 Editors: 
-Cursor                   38 hrs 29 mins      █████████████████████████   100.00 % 
+Cursor                   38 hrs 31 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    38 hrs 29 mins      █████████████████████████   100.00 % 
+Linux                    38 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -122,5 +120,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 12/05/2025 18:48:46 UTC
+ Last Updated on 13/05/2025 18:47:33 UTC
 <!--END_SECTION:waka-->
