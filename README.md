@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=YHChen0511&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-255%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-257%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
@@ -96,17 +96,17 @@ Sunday                   11 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     9 hrs 24 mins       █████████████████░░░░░░░░   69.66 % 
-Smalltalk                1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
-TypeScript               1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-YAML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Java                     3 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   37.80 % 
+Python                   2 hrs               █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
+Smalltalk                1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+TypeScript               1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
 
 🔥 Editors: 
-Cursor                   13 hrs 29 mins      █████████████████████████   100.00 % 
+Cursor                   10 hrs 3 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    13 hrs 29 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -122,5 +122,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/05/2025 18:51:14 UTC
+ Last Updated on 31/05/2025 18:48:01 UTC
 <!--END_SECTION:waka-->
