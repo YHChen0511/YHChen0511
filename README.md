@@ -53,15 +53,11 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=YHChen0511&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-338%20hrs%2013%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 34.4 kB Used in GitHub's Storage 
- > 
-> 🏆 182 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -69,46 +65,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 8 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                447 commits         ████████░░░░░░░░░░░░░░░░░   32.32 % 
-🌆 Daytime                811 commits         ███████████████░░░░░░░░░░   58.64 % 
-🌃 Evening                96 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-🌙 Night                  29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   350 commits         ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
-Tuesday                  220 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-Wednesday                271 commits         █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
-Thursday                 364 commits         ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-Friday                   111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-Saturday                 56 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-Sunday                   11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   16 hrs 48 mins      ███████████████████░░░░░░   76.57 % 
-Markdown                 1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-JSON                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-YAML                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-TypeScript               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-
-🔥 Editors: 
-Cursor                   21 hrs 56 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    21 hrs 56 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -122,5 +78,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/06/2025 18:53:28 UTC
+ Last Updated on 01/07/2025 18:52:24 UTC
 <!--END_SECTION:waka-->
