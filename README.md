@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-551%20hrs%2029%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -96,15 +96,13 @@ Sunday                   11 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      40 mins             ███████████████████████░░   93.90 % 
-Other                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+TeX                      40 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  42 mins             █████████████████████████   100.00 % 
+VS Code                  40 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  40 mins             ███████████████████████░░   93.90 % 
-Linux                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+Windows                  40 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -120,5 +118,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 12/11/2025 18:47:09 UTC
+ Last Updated on 13/11/2025 18:49:04 UTC
 <!--END_SECTION:waka-->
