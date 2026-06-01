@@ -96,13 +96,13 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -118,5 +118,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/05/2026 19:47:48 UTC
+ Last Updated on 01/06/2026 21:47:37 UTC
 <!--END_SECTION:waka-->
