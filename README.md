@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=YHChen0511&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-686%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-687%20hrs%2027%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -96,13 +96,17 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     29 mins             █████████░░░░░░░░░░░░░░░░   35.96 % 
+Python                   26 mins             ████████░░░░░░░░░░░░░░░░░   32.87 % 
+JSON                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Text                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 21 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 21 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -118,5 +122,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/06/2026 19:52:06 UTC
+ Last Updated on 07/06/2026 19:53:26 UTC
 <!--END_SECTION:waka-->
