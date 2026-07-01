@@ -28,29 +28,8 @@ Here are some ideas to get you started:
 </p>
 
 ---
-<div align="center">
-  <table style="width:100%;">
-    <tr>
-      <!-- 第一个图片 -->
-      <td align="center">
-        <img height='200' src="https://github-readme-stats.vercel.app/api?username=YHChen0511&show_icons=true" />
-      </td>
-      <!-- 第二个图片 -->
-      <td align="center">
-        <img height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=YHChen0511&layout=compact" />
-      </td>
-    </tr>
-    <!-- 第三个图片 -->
-    <tr>
-      <td colspan="2" align="center">
-        <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=YHChen0511&theme=github-compact&hide_border=true&area=true" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 ### Wakatime
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=YHChen0511&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-706%20hrs%2046%20mins-blue?style=flat)
