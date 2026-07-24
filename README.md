@@ -32,8 +32,6 @@ Here are some ideas to get you started:
 ### Wakatime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-799%20hrs%2035%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -48,50 +46,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 12 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-🌆 Daytime                45 commits          ███████████░░░░░░░░░░░░░░   42.86 % 
-🌃 Evening                35 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
-🌙 Night                  12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   26 commits          ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
-Tuesday                  18 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-Wednesday                23 commits          █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
-Thursday                 14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Friday                   10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Saturday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-Sunday                   10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   15 hrs 17 mins      █████████████░░░░░░░░░░░░   52.52 % 
-Markdown                 9 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   31.87 % 
-Text                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-JSON                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-Other                    1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-
-🔥 Editors: 
-Claude Code              12 hrs 10 mins      ██████████░░░░░░░░░░░░░░░   41.84 % 
-Codex CLI                8 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   29.33 % 
-VS Code                  7 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   26.73 % 
-Exec Wakatime            36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-
-💻 Operating System: 
-Linux                    29 hrs              █████████████████████████   99.65 % 
-Windows                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -105,5 +59,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2026 19:54:04 UTC
+ Last Updated on 24/07/2026 19:53:56 UTC
 <!--END_SECTION:waka-->
