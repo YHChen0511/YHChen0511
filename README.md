@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 ### Wakatime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C126%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C131%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-533%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-540%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -77,45 +77,46 @@ Sunday                   10 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   16 hrs 33 mins      ███████████░░░░░░░░░░░░░░   42.26 % 
-Other                    10 hrs 49 mins      ███████░░░░░░░░░░░░░░░░░░   27.64 % 
-Markdown                 8 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
-JSON                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-HTML                     40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Python                   15 hrs 44 mins      ██████████░░░░░░░░░░░░░░░   40.48 % 
+Other                    12 hrs 17 mins      ████████░░░░░░░░░░░░░░░░░   31.58 % 
+Markdown                 8 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
+JSON                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+HTML                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 🔥 Editors: 
-VS Code                  26 hrs 28 mins      █████████████████░░░░░░░░   67.59 % 
-Codex Vscode             8 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
-Codex CLI                4 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-Opencode Cli             14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+VS Code                  23 hrs 51 mins      ███████████████░░░░░░░░░░   61.31 % 
+Codex Vscode             10 hrs 7 mins       ███████░░░░░░░░░░░░░░░░░░   26.03 % 
+Codex CLI                4 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Opencode Cli             41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 
 💻 Operating System: 
-Linux                    39 hrs 10 mins      █████████████████████████   100.00 % 
+Linux                    38 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 38 hrs 35 mins (98.49%)
+⏱ AI Coding Time: 38 hrs 29 mins (98.96%)
 
-✍️ 20,684 lines written by AI, 136 lines written by hand (99.35% AI-written)
+✍️ 21,516 lines written by AI, 125 lines written by hand (99.42% AI-written)
 
-🔤 30,066,000 Input Tokens, 4,908,262 Output Tokens
+🔤 30,147,246 Input Tokens, 4,655,529 Output Tokens
 
-💵 $1695.65 Estimated AI Cost This Week
+💵 $1856.80 Estimated AI Cost This Week
 
-🧠 72 AI Sessions, 223 AI Prompts
+🧠 79 AI Sessions, 242 AI Prompts
 
-GPT                      19,845 lines        █████████████████████████   99.95 % 
+GPT                      20,048 lines        █████████████████████████   99.95 % 
 Codex-Vscode             10 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.35% of written lines came from AI
-📄 Detailed Prompter — average 1,246 characters per prompt
+🤖 AI-Driven — 99.42% of written lines came from AI
+📄 Detailed Prompter — average 1,172 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 1.05% of changed lines were hand-edited
+🚀 High AI Trust — 0.61% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -131,5 +132,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2026 21:32:47 UTC
+ Last Updated on 23/09/2026 21:38:33 UTC
 <!--END_SECTION:waka-->
